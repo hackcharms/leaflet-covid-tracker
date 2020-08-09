@@ -1,6 +1,6 @@
 <h2>ScreenShots</h2>
-<p align="center"><img src="./leaflet01.png" width="400"></p>
-<p align="center"><img src="./leaflet01.png" width="400"></p>
+<p align="center"><img src="./leaflet01.png" width="100%"></p>
+<p align="center"><img src="./leaflet01.png" width="100%"></p>
 <h1><a href="https://leafletjs.com/" action="_blank">Leaflet</a></h1>
 <p><a href="https://leafletjs.com/" action="_blank">Leaflet</a> is the leading open-source JavaScript library for mobile-friendly interactive maps.
 Weighing just about <abbr title="38 KB gzipped — that's 133 KB minified and 378 KB in the source form, with 10 KB of CSS (2 KB gzipped) and 11 KB of images.">38 KB of JS</abbr>,
