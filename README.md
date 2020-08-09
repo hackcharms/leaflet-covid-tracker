@@ -1,6 +1,6 @@
 <h2>ScreenShots</h2>
 <p align="center"><img src="./leaflet01.png" width="100%"></p>
-<p align="center"><img src="./leaflet01.png" width="100%"></p>
+<p align="center"><img src="./leaflet02.png" width="100%"></p>
 <!--About Leaflet js-->
 <h1>About Leaflet</h1>
 <img width="600" src="https://rawgit.com/Leaflet/Leaflet/master/src/images/logo.svg" alt="Leaflet" />
