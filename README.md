@@ -1,4 +1,4 @@
-<h2>ScreenShots</h2>
+<h2>Screenimage</h2>
 <p align="center"><img src="./leaflet01.png" width="100%"></p>
 <p align="center"><img src="./leaflet02.png" width="100%"></p>
 <!--About Leaflet js-->
